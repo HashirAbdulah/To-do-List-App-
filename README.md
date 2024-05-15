@@ -1,8 +1,3 @@
-# To-do-List-App-
-Certainly! Here's a simple README.md file for your GitHub repository for the ToDo List App:
-
----
-
 # ToDo List App
 
 This is a simple ToDo List application implemented in Java with a graphical user interface (GUI) using Java Swing.
